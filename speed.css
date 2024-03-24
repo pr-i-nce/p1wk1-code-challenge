@@ -1,0 +1,58 @@
+body {
+    background-image: url('pexels-vincenzo-malagoli-1211771.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    height: 60vh; 
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.section{
+    text-align:center;
+    margin-top: 10em;
+}
+
+#namebutton {
+    background: rgb(185, 161, 133);
+    margin-top: 2em;
+    color: black;
+    padding: 5px 10px;
+    border: none;
+    font-weight: 800;
+    font-size:1.5em;
+}
+
+#speedbutton {
+    background: rgb(185, 161, 133);
+    margin-top: 2em;
+    color: black;
+    padding: 5px 10px;
+    border: none;
+    font-weight: 800;
+    font-size:1.5em;
+}
+
+#driverNameInput{
+    background: #ffffff;
+    color: black;
+    padding: 5px 10px;
+    border: none;
+    margin-top: 1em;
+}
+
+#speedInput{
+    background: #ffffff;
+    color: black;
+    padding: 5px 10px;
+    border: none;
+    margin-top: 1em;
+}
+
+.head1{
+    font-size: 2em;
+}
